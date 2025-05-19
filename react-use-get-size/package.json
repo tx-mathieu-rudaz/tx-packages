@@ -1,0 +1,25 @@
+{
+  "name": "react-use-get-size",
+  "version": "1.0.0",
+  "description": "A React hook that tracks the size of DOM elements using ResizeObserver API. Returns width and height that automatically update when the element is resized.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tx-mathieu-rudaz/tx-packages.git"
+  },
+  "keywords": [
+    "hook"
+  ],
+  "author": "Mathieu Rudaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tx-mathieu-rudaz/tx-packages/issues"
+  },
+  "homepage": "https://github.com/tx-mathieu-rudaz/tx-packages#readme",
+  "dependencies": {
+    "react": "^19.1.0"
+  }
+}
