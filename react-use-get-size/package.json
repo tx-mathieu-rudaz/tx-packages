@@ -1,6 +1,6 @@
 {
   "name": "react-use-get-size",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React hook that tracks the size of DOM elements using ResizeObserver API. Returns width and height that automatically update when the element is resized.",
   "main": "index.ts",
   "scripts": {
